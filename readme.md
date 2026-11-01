@@ -1,9 +1,6 @@
 # Versenyprogramozási archívum
 
-A korábbi weboldal és a `brain/org/vprog/icpc/old-site` közös tartalma. A lapok, RTF-ek, DOC-ok és az önálló ODT-tartalmak Markdownban szerepelnek. A PDF-ek a `pdfek/`, az ábrák az `abrak/`, a források a `kodok/`, a feladatonként csoportosított tesztek a `tesztek/` mappában vannak. A PDF-ek szövegét nem alakítottuk Markdownná.
-
 - [Versenyprogramozás, felkészülés és kapcsolatok](versenyprogramozas.md)
-- [Hírek és eredmények (2023)](hirek.md)
 
 ## Szakkörök
 
@@ -22,6 +19,9 @@ A korábbi weboldal és a `brain/org/vprog/icpc/old-site` közös tartalma. A la
 - [2018](felkeszito/2018.md)
 - [2019](felkeszito/2019.md)
 - [2020](felkeszito/2020.md)
+- [2022](felkeszito/2022.md)
+- [2023](felkeszito/2023.md)
+- [2024](felkeszito/2024.md)
 
 ## Feladatleírások
 
