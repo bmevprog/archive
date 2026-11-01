@@ -1,2 +1,0 @@
-# cs-bme-hu-icpc
-

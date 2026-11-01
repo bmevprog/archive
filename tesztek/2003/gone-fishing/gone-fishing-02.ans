@@ -1,0 +1,104 @@
+Case 1:
+Move 13: teleport to (14,11)
+Won game after making 18 moves.
+Final position: (11,11)
+Number of cells with debris: 6
+
+Case 2:
+Move 4: teleport to (26,27)
+Move 11: teleport to (30,27)
+Move 20: teleport to (27,17)
+Move 38: teleport to (24,19)
+Won game after making 50 moves.
+Final position: (29,29)
+Number of cells with debris: 10
+
+Case 3:
+Move 7: teleport to (26,18)
+Move 19: teleport to (4,26)
+Move 38: teleport to (20,31)
+Lost game after making 61 moves.
+Final position: (31,17)
+Number of cells with debris: 14
+Number of robots remaining: 1
+
+Case 4:
+Lost game after making 6 moves.
+Final position: (11,17)
+Number of cells with debris: 4
+Number of robots remaining: 12
+
+Case 5:
+Move 6: teleport to (11,21)
+Move 20: teleport to (26,25)
+Lost game after making 46 moves.
+Final position: (31,1)
+Number of cells with debris: 3
+Number of robots remaining: 3
+
+Case 6:
+Move 18: teleport to (18,10)
+Move 47: teleport to (22,3)
+Move 76: teleport to (20,14)
+Move 105: teleport to (23,7)
+Move 134: teleport to (31,25)
+Move 163: teleport to (26,26)
+Move 192: teleport to (5,17)
+Move 221: teleport to (16,3)
+Move 250: teleport to (13,6)
+Move 279: teleport to (14,14)
+Lost game after making 308 moves.
+Final position: (1,31)
+Number of cells with debris: 1
+Number of robots remaining: 0
+
+Case 7:
+Move 17: teleport to (28,6)
+Move 46: teleport to (21,14)
+Move 75: teleport to (10,24)
+Move 104: teleport to (28,6)
+Move 133: teleport to (4,25)
+Move 162: teleport to (31,23)
+Move 191: teleport to (20,17)
+Move 219: teleport to (9,8)
+Move 247: teleport to (13,23)
+Move 275: teleport to (25,21)
+Lost game after making 303 moves.
+Final position: (1,31)
+Number of cells with debris: 1
+Number of robots remaining: 1
+
+Case 8:
+Move 5: teleport to (25,18)
+Move 8: teleport to (20,19)
+Move 11: teleport to (10,23)
+Move 28: teleport to (8,20)
+Lost game after making 57 moves.
+Final position: (29,1)
+Number of cells with debris: 9
+Number of robots remaining: 1
+
+Case 9:
+Move 10: teleport to (5,30)
+Move 22: teleport to (7,20)
+Move 47: teleport to (21,12)
+Won game after making 75 moves.
+Final position: (2,30)
+Number of cells with debris: 2
+
+Case 10:
+Move 6: teleport to (4,13)
+Move 11: teleport to (16,9)
+Move 20: teleport to (31,13)
+Won game after making 31 moves.
+Final position: (30,20)
+Number of cells with debris: 8
+
+Case 11:
+Move 9: teleport to (30,12)
+Move 20: teleport to (23,14)
+Move 48: teleport to (7,11)
+Lost game after making 76 moves.
+Final position: (31,1)
+Number of cells with debris: 7
+Number of robots remaining: 1

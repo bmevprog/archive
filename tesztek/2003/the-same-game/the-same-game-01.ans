@@ -1,0 +1,437 @@
+Case 1:
+
+***********
+*H-O H-O-H*
+*  |      *
+*  H   H  *
+*      |  *
+*H-O-H O-H*
+***********
+
+Case 2:
+
+*******************
+*H-O H-O-H O-H O-H*
+*  |       |   |  *
+*  H   H   H   H  *
+*      |          *
+*H-O-H O H-O H-O-H*
+*      |   |      *
+*  H   H   H   H  *
+*  |           |  *
+*H-O H-O H-O-H O-H*
+*      |          *
+*  H   H   H   H  *
+*  |       |   |  *
+*H-O H-O-H O-H O-H*
+*******************
+
+Case 3:
+
+***********************
+*H-O H-O-H O-H O-H O-H*
+*  |       |   |   |  *
+*  H   H   H   H   H  *
+*      |              *
+*H-O-H O H-O H-O-H O-H*
+*      |   |       |  *
+*  H   H   H   H   H  *
+*  |           |      *
+*H-O H-O-H O-H O H-O-H*
+*          |   |      *
+*  H   H   H   H   H  *
+*  |   |           |  *
+*H-O H-O H-O H-O-H O-H*
+*          |          *
+*  H   H   H   H   H  *
+*  |   |       |   |  *
+*H-O H-O H-O-H O-H O-H*
+***********************
+
+Case 4:
+
+***************************
+*H-O H-O H-O-H O-H O-H O-H*
+*  |   |       |   |   |  *
+*  H   H   H   H   H   H  *
+*          |              *
+*H-O H-O-H O H-O H-O-H O-H*
+*  |       |   |       |  *
+*  H   H   H   H   H   H  *
+*      |           |      *
+*H-O-H O H-O H-O-H O-H O-H*
+*      |   |           |  *
+*  H   H   H   H   H   H  *
+*  |           |   |      *
+*H-O H-O-H O-H O-H O H-O-H*
+*          |       |      *
+*  H   H   H   H   H   H  *
+*  |   |       |       |  *
+*H-O H-O H-O-H O H-O-H O-H*
+*              |          *
+*  H   H   H   H   H   H  *
+*  |   |   |       |   |  *
+*H-O H-O H-O H-O-H O-H O-H*
+***************************
+
+Case 5:
+
+***********************
+*H-O H-O-H O-H O-H O-H*
+*  |       |   |   |  *
+*  H   H   H   H   H  *
+*      |              *
+*H-O H-O H-O H-O-H O-H*
+*  |       |       |  *
+*  H   H   H   H   H  *
+*      |       |      *
+*H-O-H O H-O-H O H-O-H*
+*      |       |      *
+*  H   H   H   H   H  *
+*  |       |       |  *
+*H-O H-O-H O-H O-H O-H*
+*              |      *
+*  H   H   H   H   H  *
+*  |   |   |       |  *
+*H-O H-O H-O H-O-H O-H*
+***********************
+
+Case 6:
+
+***********************
+*H-O H-O H-O-H O-H O-H*
+*  |   |       |   |  *
+*  H   H   H   H   H  *
+*          |          *
+*H-O H-O-H O H-O-H O-H*
+*  |       |       |  *
+*  H   H   H   H   H  *
+*      |       |      *
+*H-O-H O H-O-H O H-O-H*
+*      |       |      *
+*  H   H   H   H   H  *
+*  |       |       |  *
+*H-O H-O-H O H-O-H O-H*
+*          |          *
+*  H   H   H   H   H  *
+*  |   |       |   |  *
+*H-O H-O H-O-H O-H O-H*
+***********************
+
+Case 7:
+
+*******************************
+*H-O H-O H-O H-O-H O-H O-H O-H*
+*  |   |   |       |   |   |  *
+*  H   H   H   H   H   H   H  *
+*              |              *
+*H-O H-O-H O-H O H-O H-O-H O-H*
+*  |       |   |   |       |  *
+*  H   H   H   H   H   H   H  *
+*      |               |      *
+*H-O H-O H-O H-O-H O-H O-H O-H*
+*  |       |       |       |  *
+*  H   H   H   H   H   H   H  *
+*      |       |       |      *
+*H-O-H O H-O-H O H-O-H O H-O-H*
+*      |       |       |      *
+*  H   H   H   H   H   H   H  *
+*  |       |       |       |  *
+*H-O H-O H-O H-O-H O-H O-H O-H*
+*      |               |      *
+*  H   H   H   H   H   H   H  *
+*  |       |   |   |       |  *
+*H-O H-O-H O-H O H-O H-O-H O-H*
+*              |              *
+*  H   H   H   H   H   H   H  *
+*  |   |   |       |   |   |  *
+*H-O H-O H-O H-O-H O-H O-H O-H*
+*******************************
+
+Case 8:
+
+*******************************
+*H-O H-O H-O H-O H-O H-O-H O-H*
+*  |   |   |   |   |       |  *
+*  H   H   H   H   H   H   H  *
+*                      |      *
+*H-O H-O H-O H-O-H O-H O-H O-H*
+*  |   |   |       |       |  *
+*  H   H   H   H   H   H   H  *
+*              |       |      *
+*H-O H-O-H O-H O-H O-H O-H O-H*
+*  |       |       |       |  *
+*  H   H   H   H   H   H   H  *
+*      |       |       |      *
+*H-O-H O H-O-H O H-O-H O H-O-H*
+*      |       |       |      *
+*  H   H   H   H   H   H   H  *
+*  |       |       |       |  *
+*H-O H-O-H O-H O-H O-H O-H O-H*
+*              |       |      *
+*  H   H   H   H   H   H   H  *
+*  |   |   |       |       |  *
+*H-O H-O H-O H-O-H O-H O-H O-H*
+*                      |      *
+*  H   H   H   H   H   H   H  *
+*  |   |   |   |   |       |  *
+*H-O H-O H-O H-O H-O H-O-H O-H*
+*******************************
+
+Case 9:
+
+***********************************************
+*H-O H-O H-O H-O H-O H-O H-O H-O H-O H-O-H O-H*
+*  |   |   |   |   |   |   |   |   |       |  *
+*  H   H   H   H   H   H   H   H   H   H   H  *
+*                                      |      *
+*H-O H-O H-O H-O H-O H-O-H O-H O-H O-H O-H O-H*
+*  |   |   |   |   |       |   |   |       |  *
+*  H   H   H   H   H   H   H   H   H   H   H  *
+*                      |               |      *
+*H-O H-O H-O H-O-H O-H O-H O-H O-H O-H O-H O-H*
+*  |   |   |       |       |   |   |       |  *
+*  H   H   H   H   H   H   H   H   H   H   H  *
+*              |       |               |      *
+*H-O H-O-H O-H O H-O H-O H-O H-O-H O-H O-H O-H*
+*  |       |   |   |       |       |       |  *
+*  H   H   H   H   H   H   H   H   H   H   H  *
+*      |               |       |       |      *
+*H-O H-O H-O H-O-H O-H O-H O-H O-H O-H O-H O-H*
+*  |       |       |       |       |       |  *
+*  H   H   H   H   H   H   H   H   H   H   H  *
+*      |       |       |       |       |      *
+*H-O-H O H-O-H O H-O-H O H-O-H O H-O-H O H-O-H*
+*      |       |       |       |       |      *
+*  H   H   H   H   H   H   H   H   H   H   H  *
+*  |       |       |       |       |       |  *
+*H-O H-O-H O-H O-H O-H O-H O-H O-H O-H O-H O-H*
+*              |       |       |       |      *
+*  H   H   H   H   H   H   H   H   H   H   H  *
+*  |   |   |       |       |       |       |  *
+*H-O H-O H-O H-O H-O H-O-H O-H O-H O-H O-H O-H*
+*              |               |       |      *
+*  H   H   H   H   H   H   H   H   H   H   H  *
+*  |   |   |       |   |   |       |       |  *
+*H-O H-O H-O H-O-H O-H O H-O H-O-H O-H O-H O-H*
+*                      |               |      *
+*  H   H   H   H   H   H   H   H   H   H   H  *
+*  |   |   |   |   |       |   |   |       |  *
+*H-O H-O H-O H-O H-O H-O-H O-H O-H O-H O-H O-H*
+*                                      |      *
+*  H   H   H   H   H   H   H   H   H   H   H  *
+*  |   |   |   |   |   |   |   |   |       |  *
+*H-O H-O H-O H-O H-O H-O H-O H-O H-O H-O-H O-H*
+***********************************************
+
+Case 10:
+
+*******************************************
+*H-O H-O H-O H-O H-O H-O H-O H-O H-O H-O-H*
+*  |   |   |   |   |   |   |   |   |      *
+*  H   H   H   H   H   H   H   H   H   H  *
+*                                      |  *
+*H-O H-O H-O H-O H-O H-O H-O H-O-H O-H O-H*
+*  |   |   |   |   |   |   |       |      *
+*  H   H   H   H   H   H   H   H   H   H  *
+*                              |       |  *
+*H-O H-O H-O H-O H-O-H O-H O-H O-H O-H O-H*
+*  |   |   |   |       |   |       |      *
+*  H   H   H   H   H   H   H   H   H   H  *
+*                  |           |       |  *
+*H-O H-O-H O-H O-H O H-O H-O-H O-H O-H O-H*
+*  |       |   |   |   |           |      *
+*  H   H   H   H   H   H   H   H   H   H  *
+*      |                   |   |       |  *
+*H-O-H O H-O-H O-H O-H O-H O H-O H-O-H O-H*
+*      |       |   |   |   |              *
+*  H   H   H   H   H   H   H   H   H   H  *
+*  |       |                   |   |   |  *
+*H-O H-O H-O H-O H-O H-O-H O-H O-H O-H O-H*
+*      |       |   |       |              *
+*  H   H   H   H   H   H   H   H   H   H  *
+*  |       |           |       |   |   |  *
+*H-O H-O-H O H-O H-O-H O-H O-H O-H O-H O-H*
+*          |   |           |              *
+*  H   H   H   H   H   H   H   H   H   H  *
+*  |   |           |   |       |   |   |  *
+*H-O H-O H-O H-O-H O H-O H-O-H O-H O-H O-H*
+*          |       |                      *
+*  H   H   H   H   H   H   H   H   H   H  *
+*  |   |       |       |   |   |   |   |  *
+*H-O H-O H-O H-O H-O-H O-H O-H O-H O-H O-H*
+*          |                              *
+*  H   H   H   H   H   H   H   H   H   H  *
+*  |   |       |   |   |   |   |   |   |  *
+*H-O H-O H-O-H O-H O-H O-H O-H O-H O-H O-H*
+*******************************************
+
+Case 11:
+
+***********************************
+*H-O H-O H-O-H O-H O-H O-H O-H O-H*
+*  |   |       |   |   |   |   |  *
+*  H   H   H   H   H   H   H   H  *
+*          |                      *
+*H-O H-O H-O H-O H-O H-O-H O-H O-H*
+*  |   |       |   |       |   |  *
+*  H   H   H   H   H   H   H   H  *
+*          |           |          *
+*H-O H-O H-O H-O-H O-H O H-O H-O-H*
+*  |   |           |   |   |      *
+*  H   H   H   H   H   H   H   H  *
+*          |   |               |  *
+*H-O-H O-H O-H O H-O-H O-H O-H O-H*
+*      |       |       |   |      *
+*  H   H   H   H   H   H   H   H  *
+*  |       |       |           |  *
+*H-O H-O H-O H-O H-O H-O H-O-H O-H*
+*      |       |       |          *
+*  H   H   H   H   H   H   H   H  *
+*  |       |       |       |   |  *
+*H-O H-O-H O H-O-H O-H O-H O-H O-H*
+*          |           |          *
+*  H   H   H   H   H   H   H   H  *
+*  |   |       |   |       |   |  *
+*H-O H-O H-O-H O-H O-H O-H O-H O-H*
+*                      |          *
+*  H   H   H   H   H   H   H   H  *
+*  |   |   |   |   |       |   |  *
+*H-O H-O H-O H-O H-O H-O-H O-H O-H*
+***********************************
+
+Case 12:
+
+***************************
+*H-O H-O H-O H-O H-O-H O-H*
+*  |   |   |   |       |  *
+*  H   H   H   H   H   H  *
+*                  |      *
+*H-O H-O H-O-H O-H O H-O-H*
+*  |   |       |   |      *
+*  H   H   H   H   H   H  *
+*          |           |  *
+*H-O H-O-H O H-O-H O-H O-H*
+*  |       |       |      *
+*  H   H   H   H   H   H  *
+*      |       |       |  *
+*H-O H-O H-O-H O-H O-H O-H*
+*  |               |      *
+*  H   H   H   H   H   H  *
+*      |   |   |       |  *
+*H-O-H O-H O H-O H-O-H O-H*
+*          |              *
+*  H   H   H   H   H   H  *
+*  |   |       |   |   |  *
+*H-O H-O H-O-H O-H O-H O-H*
+***************************
+
+Case 13:
+
+*******************************
+*H-O H-O H-O H-O H-O-H O-H O-H*
+*  |   |   |   |       |   |  *
+*  H   H   H   H   H   H   H  *
+*                  |          *
+*H-O H-O H-O H-O-H O H-O-H O-H*
+*  |   |   |       |       |  *
+*  H   H   H   H   H   H   H  *
+*              |       |      *
+*H-O H-O H-O-H O H-O-H O H-O-H*
+*  |   |       |       |      *
+*  H   H   H   H   H   H   H  *
+*          |       |       |  *
+*H-O-H O-H O H-O-H O-H O-H O-H*
+*      |   |           |      *
+*  H   H   H   H   H   H   H  *
+*  |           |   |       |  *
+*H-O H-O-H O-H O-H O-H O-H O-H*
+*          |           |      *
+*  H   H   H   H   H   H   H  *
+*  |   |       |   |       |  *
+*H-O H-O H-O-H O-H O H-O-H O-H*
+*                  |          *
+*  H   H   H   H   H   H   H  *
+*  |   |   |   |       |   |  *
+*H-O H-O H-O H-O H-O-H O-H O-H*
+*******************************
+
+Case 14:
+
+***************
+*H-O H-O H-O-H*
+*  |   |      *
+*  H   H   H  *
+*          |  *
+*H-O H-O-H O-H*
+*  |          *
+*  H   H   H  *
+*      |   |  *
+*H-O-H O-H O-H*
+***************
+
+Case 15:
+
+***************
+*H-O-H O-H O-H*
+*      |   |  *
+*  H   H   H  *
+*  |          *
+*H-O H-O-H O-H*
+*          |  *
+*  H   H   H  *
+*  |   |      *
+*H-O H-O H-O-H*
+***************
+
+Case 16:
+
+***************
+*H-O H-O-H O-H*
+*  |       |  *
+*  H   H   H  *
+*      |      *
+*H-O-H O H-O-H*
+*      |      *
+*  H   H   H  *
+*  |       |  *
+*H-O H-O-H O-H*
+***************
+
+Case 17:
+
+***************************************
+*H-O H-O H-O H-O H-O-H O-H O-H O-H O-H*
+*  |   |   |   |       |   |   |   |  *
+*  H   H   H   H   H   H   H   H   H  *
+*                  |                  *
+*H-O H-O H-O H-O-H O H-O-H O-H O-H O-H*
+*  |   |   |       |       |   |   |  *
+*  H   H   H   H   H   H   H   H   H  *
+*              |       |              *
+*H-O H-O H-O H-O H-O-H O-H O-H O-H O-H*
+*  |   |   |               |   |   |  *
+*  H   H   H   H   H   H   H   H   H  *
+*              |   |   |              *
+*H-O H-O H-O-H O-H O H-O H-O-H O-H O-H*
+*  |   |           |           |   |  *
+*  H   H   H   H   H   H   H   H   H  *
+*          |   |       |   |          *
+*H-O H-O H-O H-O H-O-H O-H O-H O-H O-H*
+*  |   |                       |   |  *
+*  H   H   H   H   H   H   H   H   H  *
+*          |   |   |   |   |          *
+*H-O H-O-H O-H O-H O H-O H-O H-O-H O-H*
+*  |               |               |  *
+*  H   H   H   H   H   H   H   H   H  *
+*      |   |   |       |   |   |      *
+*H-O H-O H-O H-O H-O-H O-H O-H O-H O-H*
+*  |                               |  *
+*  H   H   H   H   H   H   H   H   H  *
+*      |   |   |   |   |   |   |      *
+*H-O-H O-H O-H O-H O H-O H-O H-O H-O-H*
+*                  |                  *
+*  H   H   H   H   H   H   H   H   H  *
+*  |   |   |   |       |   |   |   |  *
+*H-O H-O H-O H-O H-O-H O-H O-H O-H O-H*
+***************************************
