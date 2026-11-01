@@ -31,6 +31,7 @@
 - [2010](feladatok/2010.md)
 - [2011](feladatok/2011.md)
 - [2012](pdfek/2012/beszamolo-2012-tavasz.pdf#page=14)
+- [2022](feladatok/2022.md)
 
 ## Versenyek
 
